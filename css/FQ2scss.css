@@ -402,6 +402,15 @@ a {
     display: flex;
     flex-wrap: wrap;
   }
+
+  .wrap {
+    width: 100%;
+    overflow: hidden;
+    background-image: url("../img/ffq2binner.png");
+    background-position: bottom center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
 }
 @media (min-width: 779px) {
   .hidden-desktop {
