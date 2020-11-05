@@ -27,7 +27,7 @@ a {
 
 .wrap {
   overflow: hidden;
-  background-image: url("../img/scott-graham-OQMZwNd3ThU-unsplash.jpg");
+  background-image: url("../img/ffq2binner.png");
   background-position: top center;
   background-size: cover;
   background-attachment: fixed;
@@ -404,8 +404,8 @@ a {
   }
 
   .wrap {
-    width: 100%;
     overflow: hidden;
+    background-image: url("../img/ffq2binner.png");
     background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
