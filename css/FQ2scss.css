@@ -158,8 +158,7 @@ a {
 
 .write_step > ul > li > p {
   padding-top: 10px;
-  width: 70%;
-  margin: 0 auto;
+  width: 50%;
 }
 
 @media (max-width: 779px) {
@@ -499,7 +498,7 @@ a {
   .wrap {
     overflow: hidden;
     background-image: url("../img/ffq2binner.png");
-    background-position: center left;
+    background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
   }
