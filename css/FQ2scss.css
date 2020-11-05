@@ -499,7 +499,7 @@ a {
   .wrap {
     overflow: hidden;
     background-image: url("../img/ffq2binner.png");
-    background-position: bottom center;
+    background-position: center left;
     background-size: cover;
     background-attachment: fixed;
   }
